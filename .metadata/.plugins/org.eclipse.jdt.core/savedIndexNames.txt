@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+E:\SB201-self_revision\.metadata\.plugins\org.eclipse.jdt.core
+210190101.index
+3621271783.index
+1865797976.index

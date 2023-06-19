@@ -1,0 +1,9 @@
+package day_0_practice;
+
+public class A { // dependent
+	B b1 = new B(); // dependency
+	public void methodA() {
+		System.out.println("Inside methodA of A");
+		b1.methodB();
+	}
+}

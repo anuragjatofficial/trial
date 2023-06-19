@@ -1,0 +1,7 @@
+package day_0_practice;
+
+public class Demo {
+	public static void main(String[] args) {
+		Travel tr = new Travel();
+	}
+}
